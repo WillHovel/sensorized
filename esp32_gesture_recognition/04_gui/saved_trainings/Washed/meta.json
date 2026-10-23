@@ -1,0 +1,18 @@
+{
+  "name": "Washed",
+  "saved_at": "2026-10-19T21:49:44",
+  "hidden": "16 12",
+  "epochs": "300",
+  "lr": "0.1",
+  "dataset": "C:\\Users\\willh\\Desktop\\HandAPP\\handApp\\esp32_gesture_recognition\\04_gui\\dataset.csv",
+  "val_acc": "0.664",
+  "gestures": [
+    "fist",
+    "knife_hand",
+    "triton",
+    "thumbs_up",
+    "thumbs_middle",
+    "thumbs_down",
+    "middle_finger"
+  ]
+}

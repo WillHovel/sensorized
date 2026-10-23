@@ -1,0 +1,9 @@
+{
+  "gesture_config_path": "D:/Documents/Arduino/libraries/GestureShared/src/gesture_config.h",
+  "library_model_path": "D:/Documents/Arduino/libraries/GestureModel/src/model_weights.h",
+  "last_port": "COM5",
+  "link_mode": "USB",
+  "ble_name": "GestureRecognizer",
+  "dataset_path": "C:\\Users\\willh\\Desktop\\HandAPP\\handApp\\esp32_gesture_recognition\\04_gui\\dataset.csv",
+  "mappings": {}
+}
